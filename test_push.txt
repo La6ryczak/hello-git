@@ -1,0 +1,2 @@
+to jest test komendy push w git
+TEST TEST TEST
